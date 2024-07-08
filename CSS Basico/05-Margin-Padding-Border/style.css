@@ -16,4 +16,12 @@ p {
     margin: 25px;
     padding: 20px;
     background-color: chartreuse;
+
+    border-style: solid;
+    border-width: 20px;
+    border-color: cadetblue;
+}
+
+h1{
+    
 }
