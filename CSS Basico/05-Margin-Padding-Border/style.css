@@ -1,0 +1,17 @@
+/* Valores Separados Laterais */
+/* p {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+} */
+
+/* Valores Iguais no Topo e Laterais */
+/* P {
+    margin: 30px 25px;
+} */
+
+/* Valor para todos os lados */
+p {
+    margin: 25px;
+}
