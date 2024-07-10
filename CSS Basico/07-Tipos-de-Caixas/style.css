@@ -1,0 +1,14 @@
+span {
+    color: blue;
+
+    /* Ele vai quebrar a linha. */
+    /* display: block; 
+    background-color: brown;
+    width: 200px;
+    height: 200px; */
+}
+
+/* p {
+    /* Ele fica na mesma linha. */
+    display: inline;
+} */
