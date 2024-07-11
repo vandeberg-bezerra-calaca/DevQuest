@@ -1,3 +1,7 @@
-#produto-um, #produto-dois{
+/* #produto-um, #produto-dois{
     background-color: aquamarine;
+} */
+ 
+.produto {
+    background-color: blue;
 }
